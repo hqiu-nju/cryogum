@@ -1,0 +1,10 @@
+# Large files (>100 MB) — excluded from git
+2026-05-20_Thomson_Alec_64891v7/
+RACS-low3_INITIAL_components.fits
+RACS-low3_INITIAL_sources.fits
+spice-racs.dr2.fits
+spice-racs.dr2.gum.fits
+spice-racs.dr2.gum.rm.csv
+
+# System
+.DS_Store
